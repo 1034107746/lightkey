@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updateTime": "2026-08-15",
+  "skins": [
+    { "id": "aurora", "name": "极光", "url": "skins/aurora.json" },
+    { "id": "honey", "name": "蜜糖", "url": "skins/honey.json" },
+    { "id": "lime", "name": "青柠", "url": "skins/lime.json" },
+    { "id": "berry", "name": "莓果", "url": "skins/berry.json" },
+    { "id": "deepsea", "name": "深海", "url": "skins/deepsea.json" },
+    { "id": "cream", "name": "奶油", "url": "skins/cream.json" }
+  ],
+  "emoji": [
+    { "id": "food", "name": "美食", "url": "emoji/food.json" },
+    { "id": "animals", "name": "动物", "url": "emoji/animals.json" },
+    { "id": "party", "name": "庆贺", "url": "emoji/party.json" }
+  ]
+}
